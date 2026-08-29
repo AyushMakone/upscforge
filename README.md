@@ -4,6 +4,8 @@ UPSCForge is a custom study dashboard designed for UPSC Civil Services aspirants
 
 This project is especially useful for aspirants who are preparing for General Studies papers and optional subject Political Science and International Relations (PSIR).
 
+The project is live at: https://upscforge.vercel.app/
+
 ---
 
 ## Why I Built This
